@@ -1,0 +1,22 @@
+.banner {
+  height: 80vh;
+  background: url("image/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.opacity {
+  background: 0.35;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
+
+.banner2 {
+  height: 80vh;
+  background: url("img/airlaut.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}

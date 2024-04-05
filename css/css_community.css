@@ -1,0 +1,39 @@
+.banner {
+  height: 50vh;
+  background: url("img/unsplash_comunnity.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
+
+.banner2 {
+  height: 100vh;
+  background: url("img/buttonfooter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+/* Layout */
+.grid-3 {
+  display: flex;
+  flex-wrap: wrap; /* Tambahkan aturan ini */
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  grid-gap: 20px;
+}
+
+.warna1 {
+  color: yellow;
+}
+
+.warna2 {
+  color: white;
+}
+
+.footer {
+  border-top-left-radius: 120px;
+  border-top-right-radius: 120px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
