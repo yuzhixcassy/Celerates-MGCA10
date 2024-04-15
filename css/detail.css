@@ -1,0 +1,197 @@
+.warna1 {
+    background-color: #633971;
+}
+
+.warna2 {
+    background-color: black;
+}
+
+.warna3{
+    background-color: white;
+}
+
+.warna4 {
+    background-color: #5c5c5c;
+}
+
+.warna5 {
+    background-color: #acabab;
+}
+
+.warna6 {
+    color: #5c5c5c;
+}
+
+.warna7 {
+    color: white;
+}
+
+.banner {
+    height: 50vh;
+    background: url('../image/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.banner2 {
+    height: 20vh;
+    background: url('../image/bottom2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner2-margin {
+    margin-top: 150px;
+  }
+
+.banner2-margin2 {
+    margin-bottom: 200px;
+}
+
+.banner3 {
+    height: 20vh;
+    background: url('../image/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.highlighted-keahlian{
+    height: 370px;
+}
+
+.hewan1{
+    background: url('../image/lumba.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan2{
+    background: url('../image/fish.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan3{
+    background: url('../image/penguin2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan4{
+    background: url('../image/pari.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan5{
+    background: url('../image/turtle.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan6{
+    background: url('../image/nemo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan7{
+    background: url('../image/paus.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan8{
+    background: url('../image/paus2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.hewan9{
+    background: url('../image//seal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.no-decoration:hover {
+    color: #C39BD3;
+}
+
+.paragraf{
+    font-size: 16px;
+}S
+
+.image-box{
+    height: 240px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.link{
+    color: white;
+}
+
+.card-body2{
+    background-color: #633971;
+    color: white;
+    border-radius: 4px;
+}
+
+section{
+    padding: 50px;
+}
+
+.btn-black {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-black:hover {
+    background-color: #222;
+  }
+
+  footer {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+  }
+
+  .back {
+    margin-left: 50px;
+    margin-top: 20px;
+  }
