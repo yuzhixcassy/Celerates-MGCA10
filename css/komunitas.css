@@ -1,0 +1,65 @@
+.banner {
+  height: 50vh;
+  background: url("../image/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
+
+.banner2 {
+  height: 80vh;
+  background: url("../image/buttonfooter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+/* Layout */
+.grid-3 {
+  display: flex;
+  flex-wrap: wrap; /* Tambahkan aturan ini */
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  grid-gap: 20px;
+}
+
+.warna1 {
+  color: yellow;
+}
+
+.warna2 {
+  color: white;
+}
+
+.footer {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+.warna1 {
+  background-color: #633971;
+}
+
+.warna2 {
+  background-color: black;
+}
+
+.warna3{
+  background-color: white;
+}
+
+.warna4 {
+  background-color: #5c5c5c;
+}
+
+.warna5 {
+  background-color: #acabab;
+}
+
+.warna6 {
+  color: #5c5c5c;
+}
+
+.warna7 {
+  color: white;
+}
